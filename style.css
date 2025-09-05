@@ -2,6 +2,10 @@ main{
   flex-grow: 1;
 }
 
+html{
+  min-height: 100vh;
+}
+
 body{
   color: ivory;
   background-color: #B80F00;
@@ -13,4 +17,5 @@ body{
 footer{
   background-color: rgb(216, 119, 0);
   min-height: min-content;
+  margin-top: auto;
 }
